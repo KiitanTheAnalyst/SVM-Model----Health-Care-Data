@@ -1,5 +1,5 @@
 # SVM-Model----Health-Care
-This project focuses on building a support vector machine project that can accurately predict if a patient has a benign or malignant tumor.
+This project focuses on building a support vector machine model that can accurately predict if a patient has a benign or malignant type of tumor.
 
 ## By Olaitan Suru
 
